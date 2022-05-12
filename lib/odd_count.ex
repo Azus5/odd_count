@@ -1,18 +1,5 @@
 defmodule OddCount do
-  @moduledoc """
-  Documentation for `OddCount`.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> OddCount.hello()
-      :world
-
-  """
-  def hello do
-    :world
+  def call() do
+    # to do
   end
 end
